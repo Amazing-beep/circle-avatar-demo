@@ -1,17 +1,47 @@
-# circle_avatar_demo
+# Circle Avatar Demo
 
-A new Flutter project.
+## Widget Description
 
-## Getting Started
+This Flutter project demonstrates Flutter's CircleAvatar widget using a student profile screen.
 
-This project is a starting point for a Flutter application.
+CircleAvatar is commonly used to display user profile pictures in modern mobile applications.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Real-World Use Case
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app represents a student profile interface where user information and profile identity are displayed.
+
+---
+
+## Run Instructions
+
+1. Clone the repository
+2. Open in Android Studio
+3. Run:
+
+flutter pub get
+
+flutter run
+
+---
+
+## CircleAvatar Properties Demonstrated
+
+### 1. radius
+
+Controls the size of the profile image.
+
+### 2. backgroundColor
+
+Changes the avatar's background appearance.
+
+### 3. backgroundImage
+
+Displays the user's profile image.
+
+---
+
+## Final UI Screenshot
+
+![Widget Presentation](assets/Widget_Presentation.png)
